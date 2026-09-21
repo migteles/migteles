@@ -22,6 +22,7 @@ Tenho interesse especial em:
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-4a5568)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-f05032)
 ![Postman](https://img.shields.io/badge/Postman-Testing-orange%3Flogo%3Dpostman?color=orange)
+![Docker](https://img.shields.io/badge/Docker-Testing-blue?logo=docker)
 
 ---
 
